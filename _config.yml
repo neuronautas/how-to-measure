@@ -1,0 +1,22 @@
+title: NeuroNautas 2019
+description: How to measure almost anything with a computer
+google_analytics:
+theme: minima
+baseurl: "/how-to-measure"
+github_username:  neuronautas
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "**README.md"
+
+collections:
+  # Ideally we would use collections for slides but this
+  # breaks reveal.js markdown processing because of issue:
+  # https://github.com/jekyll/jekyll/issues/6209
+  # slides:
+  #   output: true
+  #   permalink: /:collection/:path/
