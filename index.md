@@ -19,14 +19,14 @@ title: How to measure almost anything with a computer
 
 <table>
   <tr>
-    <td class="fragment" width="30%"><small>What is the temperature outside?</small></td>
+    <td width="30%"><small>What is the temperature outside?</small></td>
     <td width="30%"></td>
-    <td class="fragment" width="30%"><small>How do you get that <b>value</b> into a computer?</small></td>
+    <td width="30%"><small>How do you get that <b>value</b> into a computer?</small></td>
   </tr>
 </table>
 
 <div>
-  <img class="fragment" src="assets/images/measuring-0.svg"/>
+  <img src="assets/images/measuring-0.svg"/>
 </div>
 
 --
@@ -80,18 +80,6 @@ title: How to measure almost anything with a computer
 <table>
   <tr>
     <td style="vertical-align: middle;"><img src="assets/images/daq-sensor.svg" /></td>
-    <td class="fragment" style="vertical-align: middle;"><img src="assets/images/daq-thermistor.svg" /></td>
-  </tr>
-</table>
-
---
-
-<!-- .element: data-transition="none" -->
-#### Computers can only measure voltage
-
-<table>
-  <tr>
-    <td style="vertical-align: middle;"><img src="assets/images/daq-sensor.svg" /></td>
     <td class="fragment" style="vertical-align: middle;"><img src="assets/images/daq-ohm.svg" /></td>
   </tr>
 </table>
@@ -103,9 +91,9 @@ title: How to measure almost anything with a computer
 
 <table>
   <tr>
-    <td style="vertical-align: middle;"><a href="https://en.wikipedia.org/wiki/Alessandro_Volta#/media/File:Alessandro_Volta.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Alessandro_Volta.jpeg" /></a></td>
-    <td style="vertical-align: middle;"><a href="https://en.wikipedia.org/wiki/Georg_Ohm#/media/File:Georg_Simon_Ohm3.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Georg_Simon_Ohm3.jpg" /></a></td>
-    <td style="vertical-align: middle;"><a href="https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re#/media/File:Ampere_Andre_1825.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ampere_Andre_1825.jpg" /></a></td>
+    <td style="vertical-align: middle;"><a href="https://en.wikipedia.org/wiki/Alessandro_Volta"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Alessandro_Volta.jpeg" /></a></td>
+    <td style="vertical-align: middle;"><a href="https://en.wikipedia.org/wiki/Georg_Ohm"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Georg_Simon_Ohm3.jpg" /></a></td>
+    <td style="vertical-align: middle;"><a href="https://www.azquotes.com/picture-quotes/quote-the-future-science-of-government-should-be-called-la-cybernetique-1843-coining-the-french-andre-marie-ampere-89-92-33.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Ampere_Andre_1825.jpg" /></a></td>
   </tr>
   <tr>
     <td><small>Alessandro Volta</small></td>
@@ -123,6 +111,18 @@ title: How to measure almost anything with a computer
   <tr>
     <td style="vertical-align: middle;"><img src="assets/images/daq-sensor.svg" /></td>
     <td style="vertical-align: middle;"><img src="assets/images/daq-ohm.svg" /></td>
+  </tr>
+</table>
+
+--
+
+<!-- .element: data-transition="none" -->
+#### Computers can only measure voltage
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;"><img src="assets/images/daq-sensor.svg" /></td>
+    <td style="vertical-align: middle;"><img src="assets/images/daq-thermistor.svg" /></td>
   </tr>
 </table>
 
